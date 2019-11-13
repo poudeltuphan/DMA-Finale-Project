@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    android : background= "@color/black"
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#3A6094</color>
+    <color name="colorPrimaryLight">#F1E484</color>
+    <color name="colorAccent">#F12C08</color>
+
+
+    <!-- colors todo priority selection -->
+    <color name="materialRed">#FB3004</color>
+    <color name="materialOrange">#239005</color>
+    <color name="materialYellow">#EBF607</color>
+
+
+</resources>
