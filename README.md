@@ -3,21 +3,30 @@
 **Todo App (Introduction)**
 TodoList is an android app that allows user to add their daily tasks. Allow them to Add, priotize, Edit and delete task details.
 
-**Gif Run-through**
+**Graphics Interchange Format (Gif) Run-through**
 
 ![](todo-app.gif)
+
 Opening the app.
 
+
 ![](Add.gif)
+
 Adding todo
 
+
 ![](Priority.gif)
+
 Giving Priority to the todo
 
+
 ![](Edit.gif)
+
 Editing the existing todo
 
+
 ![](Delete.gif)
+
 Deleting the todo
 
 **Functionalites and Features**
@@ -39,7 +48,7 @@ View Pagers
 **Prerequisties**
 
 Android Studio (IDE)
-Android SDK v28
+Android SDK 26.1.1
 
 **Libraries Used**
 
